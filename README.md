@@ -1,0 +1,2 @@
+# kam
+laikam pārbaudes darbs
